@@ -59,6 +59,7 @@ export default {
   },
   created() {
     getGoods().then(res => {
+        
       //设置食品数组
       this.list = res.data.data;
       console.log(res.data);

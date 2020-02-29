@@ -19,6 +19,7 @@
     <router-view></router-view>
 
     <div class="shopcar-bar">购物车条</div>
+    
   </div>
 </template>
 
